@@ -1,0 +1,10 @@
+{
+    "name": "prio-splitters",
+    "title": "Prio Splitters",
+    "version": "1.0.1",
+    "factorio_version": "0.15",
+    "author": "doktorstick;Myricaulus",
+    "homepage": "https://bitbucket.org/doktorstick/hacked-splitters",
+    "description": "You've used your ingenuity as an engineer to hack/prio your original splitter design, creating new splitters that perfectly balance transport belt inputs. These hacked splitters require extra circuitry and are best used with single-item belts as they no longer perform the function of their baser models. They unlock when their respective counterparts become available.",
+    "dependencies": ["? boblogistics >= 0.14"]
+}
