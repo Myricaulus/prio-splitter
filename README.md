@@ -1,6 +1,7 @@
 # PrioritySplitter
 Factorio mod: Priority Splitter. It favorizes one belt until its full, then overflows to the second. 
 Based on Hacked-Splitter from Docktorstick at https://bitbucket.org/doktorstick/hacked-splitters
+Demo video: https://youtu.be/4HEi2TyTpt4
 
 Known issues:
 - Deconstructing these splitters destroys the buffer contents
